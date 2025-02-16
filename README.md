@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**DevBySergio/DevBySergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Desarrollo Web
+Actualmente estoy estudiando desarrollo web, aprendiendo nuevas tecnologías y mejorando mis habilidades.
+Aqui ire publicando mi progreso.
 
-Here are some ideas to get you started:
+### 🎮 Desarrollo de Videojuegos
+Con 2+ años de experiencia en el desarrollo de videojuegos como programador en Unity (C#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Lenguajes de Programación
+![Lenguajes de Programación](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBySergio&layout=compact&langs_count=10)
+
+### 🔗 Contacto
+Puedes contactarme a través de [mi perfil de GitHub](https://github.com/DevBySergio).

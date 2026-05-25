@@ -14,21 +14,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer passionate about building useful, clean, and maintainable products.
+I'm a software developer focused on building **useful, maintainable, and well-designed software**.
 
-My main focus is the **TypeScript ecosystem**, modern frontend development, and tools that improve developer productivity. I enjoy working on projects that combine solid architecture, thoughtful UI design, and real-world usability.
+My main area of interest is the **TypeScript ecosystem**, especially modern frontend development, developer tools, and productivity-focused applications. I enjoy working on projects that combine clean architecture, thoughtful user experience, and practical real-world value.
 
-I'm currently improving my skills across full-stack development, data engineering, and developer tooling while building projects that solve practical problems.
+I am currently improving my skills across **full-stack development**, **data engineering**, and **developer tooling**, while building projects that help me grow as a software developer.
 
 ---
 
-## 🚀 What I Work On
+## 🧭 What Defines My Work
 
-- 🌐 **Web Development** — modern, responsive, and accessible web applications.
-- 🛠️ **Developer Tools** — productivity-focused tools and VS Code extensions.
-- 📊 **Data Engineering** — ETL pipelines, automation, data validation, and database workflows.
-- 🎨 **UI/UX** — clean interfaces with attention to usability and detail.
-- 🤖 **AI-Ready Workflows** — tools designed to work smoothly with AI coding agents.
+| Area | What I Focus On |
+| --- | --- |
+| 🌐 Web Development | Fast, responsive, accessible, and maintainable web applications |
+| 🛠️ Developer Tools | Tools that improve workflow, organization, and productivity |
+| 🎨 UI/UX | Clean interfaces with attention to usability and detail |
+| 📊 Data Engineering | ETL pipelines, validation, automation, and structured data workflows |
+| 🤖 AI-Ready Workflows | Projects designed to work smoothly with modern AI coding tools |
 
 ---
 
@@ -36,27 +38,31 @@ I'm currently improving my skills across full-stack development, data engineerin
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Technology | Focus |
+| --- | --- |
+| **TypeScript** | Frontend architecture, tooling, scalable web applications |
+| **JavaScript** | Interactive web development and application logic |
+| **Python** | ETL pipelines, automation, data processing |
+| **SQL** | Relational databases, data modeling, queries |
 
 ### Frontend
 
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| Technology | Usage |
+| --- | --- |
+| **Astro** | Static websites, performance-focused pages, portfolio development |
+| **React** | Interactive components and stateful UI |
+| **Tailwind CSS** | Responsive design systems and utility-first styling |
+| **HTML / CSS** | Semantic structure, accessibility, and layout |
 
-### Backend & Data
+### Backend, Data & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Technology | Usage |
+| --- | --- |
+| **PostgreSQL** | Relational data storage |
+| **Apache Airflow** | Workflow orchestration and scheduled data pipelines |
+| **Docker** | Containerized development environments |
+| **Git & GitHub** | Version control, collaboration, and project management |
+| **VS Code** | Development environment and extension ecosystem |
 
 ---
 
@@ -64,17 +70,20 @@ I'm currently improving my skills across full-stack development, data engineerin
 
 ### 🗂️ Lynvo — Project Board for VS Code
 
-A local-first Kanban project board built directly inside VS Code.
+**Lynvo** is a local-first Kanban project board built directly inside VS Code.
 
-Lynvo helps developers and teams manage tasks without leaving their editor. It includes drag-and-drop boards, task relations, labels, due dates, insights, Git-based sync, and AI-agent-friendly workflows.
+It is designed for developers and engineering teams who want to manage tasks without leaving their editor. The project focuses on privacy, productivity, Git-based collaboration, and compatibility with AI coding agents.
 
-**Highlights:**
+**Key highlights:**
 
 - Local-first architecture with no external servers.
-- Kanban, table, activity, insights, conflicts, and labels views.
+- Kanban board, table view, activity feed, insights, conflict resolution, and label management.
 - Git-backed collaboration using a shadow branch strategy.
-- Designed to integrate with AI coding agents.
-- Built for privacy, productivity, and developer workflows.
+- Task relations, priorities, due dates, markdown descriptions, and checklists.
+- Designed to integrate naturally with AI coding agents.
+- Built with developer workflows in mind.
+
+**Repository:** [DevBySergio/Lynvo_by_Sergio](https://github.com/DevBySergio/Lynvo_by_Sergio)
 
 ---
 
@@ -84,45 +93,69 @@ My personal portfolio website, built to showcase my work, projects, and develope
 
 🔗 **Live site:** [devbysergio.com](https://devbysergio.com/)
 
-**Highlights:**
+**Key highlights:**
 
 - Built with Astro, TypeScript, React, and Tailwind CSS.
 - Optimized for performance, accessibility, and SEO.
-- Includes dark mode, structured metadata, responsive design, and interactive UI components.
+- Includes dark mode, responsive design, structured metadata, and interactive UI components.
+- Designed as a professional developer profile and project showcase.
+
+**Repository:** [DevBySergio/portfolio](https://github.com/DevBySergio/portfolio)
 
 ---
 
 ### 🧩 ETL Data Pipeline
 
-A complete ETL pipeline built with Python, Apache Airflow, Docker, and PostgreSQL.
+A complete ETL pipeline project built with Python, Apache Airflow, Docker, and PostgreSQL.
 
-**Highlights:**
+The project processes CSV files, validates and transforms data, anonymizes sensitive information, and loads the final results into a relational database.
+
+**Key highlights:**
 
 - CSV extraction, transformation, validation, and loading.
-- Data cleaning and anonymization using SHA-256 hashing with SALT.
+- Data cleaning and normalization.
+- Sensitive data anonymization using SHA-256 hashing with SALT.
 - PostgreSQL relational storage.
 - Dockerized environment with Apache Airflow orchestration.
+- Modular structure prepared for future improvements.
+
+**Repository:** [DevBySergio/PeP_Python_Final](https://github.com/DevBySergio/PeP_Python_Final)
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Project Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBySergio&show_icons=true&theme=tokyonight&hide_border=true" alt="Sergio's GitHub stats" />
-</p>
+Instead of relying on external dynamic stat cards, here is a clear overview of what my GitHub currently represents:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBySergio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+| Category | Description |
+| --- | --- |
+| **Main focus** | Full-stack web development and developer tools |
+| **Primary ecosystem** | TypeScript, Astro, React, Tailwind CSS |
+| **Data experience** | Python ETL pipelines, Airflow, PostgreSQL, Docker |
+| **Tooling interest** | VS Code extensions, productivity workflows, local-first software |
+| **Current direction** | Building polished, practical projects with real-world value |
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving as a full-stack developer.
-- Building developer-focused tools.
-- Creating clean and scalable web applications.
+- Improving as a full-stack software developer.
+- Building developer-focused tools and productivity applications.
+- Creating clean, scalable, and accessible web applications.
 - Exploring automation, data pipelines, and AI-assisted development workflows.
+- Writing better documentation and structuring projects professionally.
+
+---
+
+## 💡 Development Philosophy
+
+I like building software that is:
+
+- **Useful** — solves a real problem.
+- **Maintainable** — easy to understand, extend, and improve.
+- **User-focused** — designed with clarity and usability in mind.
+- **Well-documented** — understandable for both users and developers.
+- **Practical** — built with a clear purpose, not just technology for its own sake.
 
 ---
 
